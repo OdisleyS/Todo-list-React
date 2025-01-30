@@ -1,8 +1,32 @@
-# React + Vite
+# ✅ Todo List (Lista de Tarefas)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Todo List** é uma aplicação web moderna e responsiva para gerenciamento de tarefas, desenvolvida com **React JS**, **Vite** e **Node JS**. O objetivo do projeto é proporcionar uma experiência simples e intuitiva para organizar atividades diárias.  
 
-Currently, two official plugins are available:
+## 🌟 Principais Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ **Adicionar tarefas** com facilidade.  
+- ✏️ **Editar tarefas** já criadas.  
+- 🗑️ **Excluir tarefas** desnecessárias.  
+- ✔️ **Marcar tarefas como concluídas** para melhor organização.  
+- 📱 **Design responsivo** adaptado para qualquer dispositivo.  
+
+## 🚀 Tecnologias Utilizadas
+
+- ⚛️ **React JS** – Biblioteca para interfaces interativas.  
+- ⚡ **Vite** – Ferramenta de build rápida e eficiente.  
+- 🌎 **Node JS** – Backend para comunicação eficiente.  
+- 🎨 **CSS Responsivo** – Layout adaptável a diferentes telas.  
+- 📦 **GitHub Pages** – Deploy simples e rápido.  
+
+## 🌍 Deploy
+
+A aplicação está disponível em:  
+🔗 **[Acesse aqui](https://OdisleyS.github.io/Todo-list-React)**  
+
+## 📝 Licença
+
+Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.  
+
+---  
+
+👨‍💻 Desenvolvido por **[Odisley Nascimento Santos ](https://github.com/OdisleyS)** 🚀
