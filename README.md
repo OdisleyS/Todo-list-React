@@ -4,8 +4,7 @@
 
 ## 🌟 Principais Funcionalidades
 
-- ✅ **Adicionar tarefas** com facilidade.  
-- ✏️ **Editar tarefas** já criadas.  
+- ✅ **Adicionar tarefas** com facilidade.    
 - 🗑️ **Excluir tarefas** desnecessárias.  
 - ✔️ **Marcar tarefas como concluídas** para melhor organização.  
 - 📱 **Design responsivo** adaptado para qualquer dispositivo.  
@@ -29,4 +28,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 
 ---  
 
-👨‍💻 Desenvolvido por **[Odisley Nascimento Santos ](https://github.com/OdisleyS)** 🚀
+👨‍💻 Desenvolvido por **[Odisley Nascimento](https://github.com/OdisleyS)** 🚀
